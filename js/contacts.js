@@ -1,5 +1,6 @@
 /*
 Activité : gestion des contacts
+test de commit dans Atom
 */
 
 class contact {
