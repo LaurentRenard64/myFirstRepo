@@ -1,7 +1,7 @@
 /*
 Activité : gestion des contacts
 test de commit dans Atom
-c'est impressionant git
+c'est impressionant
 */
 
 class contact {
