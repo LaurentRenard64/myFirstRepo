@@ -3,6 +3,7 @@ Activité : gestion des contacts
 test de commit dans Atom
 c'est impressionant
 modif pour github
+Ajout de code pour tester les branches
 */
 
 class contact {
